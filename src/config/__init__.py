@@ -1,0 +1,1 @@
+from .config import get_data_from_json
